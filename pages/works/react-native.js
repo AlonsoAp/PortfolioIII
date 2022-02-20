@@ -51,13 +51,13 @@ const ReactNative = () => {
                 // nameTabV={""}
                 // nameTabVI={""}
                 src={"/images/works/reactnativeapp/react.jpg"} 
-                srcD={useColorModeValue("/images/works/fondotroll2.png" , "/images/works/fondotroll.png")}
+                srcD={useColorModeValue("/images/fondotroll2.png" , "/images/works/game/fondotroll.png")}
                 srcII={"/images/works/reactnativeapp/react1.jpg"}
-                srcDII={useColorModeValue("/images/works/fondotroll2.png" , "/images/works/fondotroll.png")}
+                srcDII={useColorModeValue("/images/fondotroll2.png" , "/images/works/game/fondotroll.png")}
                 srcIII={"/images/works/reactnativeapp/react2.jpg"}
-                srcDIII={useColorModeValue("/images/works/fondotroll2.png" , "/images/works/fondotroll.png")}
+                srcDIII={useColorModeValue("/images/fondotroll2.png" , "/images/works/game/fondotroll.png")}
                 srcIV={"/images/works/reactnativeapp/react3.jpg"}
-                srcDIV={useColorModeValue("/images/works/fondotroll2.png" , "/images/works/fondotroll.png")}
+                srcDIV={useColorModeValue("/images/fondotroll2.png" , "/images/works/game/fondotroll.png")}
                 />
             </Container>
         </Layout>

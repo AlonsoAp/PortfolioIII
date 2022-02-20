@@ -65,13 +65,13 @@ const Works = () => {
             <br/>
             <Section>
                 <WorkAppGridItem id="react-native" title="App React-native" thumbnail={thumbReact}>
-                 A app with react-native and geolation by google
+                 A app with react-native and geolocation by API google
                 </WorkAppGridItem>
             </Section>
             
             <Section>
                 <WorkAppGridItem id="android" title="App Android" thumbnail={thumbAndroid}>
-                 A app with kotlin and firebase by google
+                 A app with kotlin, firebase and API by google
                 </WorkAppGridItem>
             </Section>
             </SimpleGrid>
