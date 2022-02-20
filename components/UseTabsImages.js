@@ -31,7 +31,7 @@ const UseTabsImages = ({src ,srcD, srcII,srcDII,srcIII,srcDIII,srcIV,srcDIV, src
 
                 <TabPanel>
                 <Image
-                    alt='image'
+                    alt='imageII'
                     borderRadius="lg" w="full" mb={4}
                     boxSize='full'
                     fit='cover'
@@ -42,7 +42,7 @@ const UseTabsImages = ({src ,srcD, srcII,srcDII,srcIII,srcDIII,srcIV,srcDIV, src
 
                 <TabPanel>
                 <Image
-                     alt='image'
+                     alt='imageIII'
                     borderRadius="lg" w="full" mb={4}
                     boxSize='full'
                     fit='cover'
@@ -53,7 +53,7 @@ const UseTabsImages = ({src ,srcD, srcII,srcDII,srcIII,srcDIII,srcIV,srcDIV, src
 
                 <TabPanel>
                 <Image
-                     alt='image'
+                     alt='imageIV'
                     borderRadius="lg" w="full" mb={4}
                     boxSize='full'
                     fit='cover'
@@ -64,7 +64,7 @@ const UseTabsImages = ({src ,srcD, srcII,srcDII,srcIII,srcDIII,srcIV,srcDIV, src
 
                 <TabPanel>
                 <Image
-                     alt='image'
+                     alt='imageV'
                     borderRadius="lg" w="full" mb={20}
                     boxSize='full'
                     fit='cover'
@@ -86,6 +86,7 @@ const UseTabsImages = ({src ,srcD, srcII,srcDII,srcIII,srcDIII,srcIV,srcDIV, src
             <TabPanels>
                 <TabPanel>
                 <Image
+                    alt='imageD'
                  borderRadius="lg" w="full" mb={5}
                     boxSize='full'
                     fit='cover'
@@ -96,6 +97,7 @@ const UseTabsImages = ({src ,srcD, srcII,srcDII,srcIII,srcDIII,srcIV,srcDIV, src
 
                 <TabPanel>
                 <Image
+                alt='imageDII'
                  borderRadius="lg" w="full" mb={5}
                     boxSize='full'
                     fit='cover'
@@ -106,6 +108,7 @@ const UseTabsImages = ({src ,srcD, srcII,srcDII,srcIII,srcDIII,srcIV,srcDIV, src
 
                 <TabPanel>
                 <Image
+                alt='imageDIII'
                  borderRadius="lg" w="full" mb={5}
                     boxSize='full'
                     fit='cover'
@@ -116,6 +119,7 @@ const UseTabsImages = ({src ,srcD, srcII,srcDII,srcIII,srcDIII,srcIV,srcDIV, src
 
                 <TabPanel>
                 <Image
+                alt='imageDIV'
                  borderRadius="lg" w="full" mb={5}
                     boxSize='full'
                     fit='cover'
@@ -126,6 +130,7 @@ const UseTabsImages = ({src ,srcD, srcII,srcDII,srcIII,srcDIII,srcIV,srcDIV, src
 
                 <TabPanel>
                 <Image
+                alt='imageDV'
                  borderRadius="lg" w="full" mb={5}
                     boxSize='full'
                     fit='cover'

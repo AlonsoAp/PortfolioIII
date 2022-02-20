@@ -48,11 +48,11 @@ const Work = () => {
                 nameTabII={"Login"}
                 nameTabIII={"Dashboard"}
                 nameTabIV={"Chat"}
-                src={"/images/works/php/php1.png "} 
+                src={"/images/works/php/php1.png"} 
                 srcD={"/images/works/php/php8.jpg"}
                 srcII={"/images/works/php/php2.png"}
                 srcDII={"/images/works/php/php9.jpg"}
-                srcIII={"/images/works/php/php3.png "}
+                srcIII={"/images/works/php/php3.png"}
                 srcDIII={"/images/works/php/php10.jpg"}
                 srcIV={"/images/works/php/php4.png"}
                 srcDIV={"/images/works/php/php5.png"}
