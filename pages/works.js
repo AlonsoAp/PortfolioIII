@@ -19,9 +19,7 @@ const Works = () => {
             <Heading as="h3" fontSize={20} mb={4}>
                 Works
             </Heading>
-
             <SimpleGrid columns={[1,1,2]} gap={6}>
-
             <Section>
                 <WorkGridItem id="webLimon" title="App Web logistic in Peru" thumbnail={thumbwebLimon}>
                  A app web with Next JS - FrontEnd 

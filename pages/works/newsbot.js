@@ -40,10 +40,8 @@ const NewsBot = () => {
                         <Meta>Stack</Meta>
                         <span>React JS, Stripe, Node JS, Material UI</span>
                     </ListItem>
-                    
                 </List>
                 <UseTabsImages 
-              
                 nameTab={"Home"}
                 nameTabII={"Error"}
                 nameTabIII={"Result"}
