@@ -49,14 +49,14 @@ const WebLimon = () => {
                 nameTabIV={"Maps"}
                 // nameTabV={""}
                 // nameTabVI={""}
-                src={"/images/works/limon/logim.png"} 
-                srcD={"/images/works/limon/loginR.png"}
-                srcII={"/images/works/limon/home.png"}
-                srcDII={"/images/works/limon/homeR.png"}
-                srcIII={"/images/works/limon/register.png"}
-                srcDIII={"/images/works/limon/registerR.png"}
-                srcIV={"/images/works/limon/mpas.png"}
-                srcDIV={"/images/works/limon/mpasR.png"}
+                src={"/images/works/limonapp/logim.png"} 
+                srcD={"/images/works/limonapp/loginR.png"}
+                srcII={"/images/works/limonapp/home.png"}
+                srcDII={"/images/works/limonapp/homeR.png"}
+                srcIII={"/images/works/limonapp/register.png"}
+                srcDIII={"/images/works/limonapp/registerR.png"}
+                srcIV={"/images/works/limonapp/mpas.png"}
+                srcDIV={"/images/works/limonapp/mpasR.png"}
                 />
             </Container>
         </Layout>
