@@ -7,7 +7,7 @@ import thumbReact from '../public/images/works/reactNative/react.jpg'
 import thumbAndroid from '../public/images/works/android/android9.png'
 import thumbbot from '../public/images/works/botReact/bot.png'
 import Layout from "../components/layout/article"
-import thumbPayment from '../public/images/works/keos/errorI.png'
+import thumbKeos from '../public/images/works/keos/errorI'
 import { BioSection, BioYear } from "../components/bio";
 
 
@@ -29,7 +29,7 @@ const Works = () => {
             </Section>
 
             <Section>
-                <WorkGridItem id="webPayment" title="Payment gateway in Colombia" thumbnail={thumbPayment}>
+                <WorkGridItem id="webPayment" title="Payment gateway in Colombia" thumbnail={thumbKeos}>
                  A app web with Next JS - FrontEnd 
                 </WorkGridItem>
             </Section>
