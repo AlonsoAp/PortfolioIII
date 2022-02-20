@@ -48,8 +48,6 @@ const NewsBot = () => {
                 nameTabII={"Error"}
                 nameTabIII={"Result"}
                 nameTabIV={"Home/Error"}
-                // nameTabV={""}
-                // nameTabVI={""}
                 src={"/images/works/botReact/home.png "} 
                 srcD={"/images/works/botReact/homeR.png "}
                 srcII={"/images/works/botReact/news.png"}
