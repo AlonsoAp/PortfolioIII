@@ -46,14 +46,14 @@ const NewsBot = () => {
                 nameTabII={"Error"}
                 nameTabIII={"Result"}
                 nameTabIV={"Home/Error"}
-                src={"/images/works/botReact/home.png"} 
-                srcD={"/images/works/botReact/homeR.png"}
-                srcII={"/images/works/botReact/news.png"}
-                srcDII={"/images/works/botReact/newsR.png"}
-                srcIII={"/images/works/botReact/premium.png"}
-                srcDIII={"/images/works/botReact/premiumR.png"}
-                srcIV={"/images/works/botReact/pay.png"}
-                srcDIV={"/images/works/botReact/payR.png"}
+                src={"/images/works/reactapp/home.png"} 
+                srcD={"/images/works/reactapp/homeR.png"}
+                srcII={"/images/works/reactapp/news.png"}
+                srcDII={"/images/works/reactapp/newsR.png"}
+                srcIII={"/images/works/reactapp/premium.png"}
+                srcDIII={"/images/works/reactapp/premiumR.png"}
+                srcIV={"/images/works/reactapp/pay.png"}
+                srcDIV={"/images/works/reactapp/payR.png"}
                 />
             </Container>
         </Layout>

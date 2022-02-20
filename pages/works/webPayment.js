@@ -51,14 +51,14 @@ const WebPayment = () => {
                 nameTabIV={"Home/Error"}
                 // nameTabV={""}
                 // nameTabVI={""}
-                src={"/images/works/keos/home.png"} 
-                srcD={"/images/works/keos/homeR.png"}
-                srcII={"/images/works/keos/errorI.png"}
-                srcDII={"/images/works/keos/errorIR.png"}
-                srcIII={"/images/works/keos/result.png"}
-                srcDIII={"/images/works/keos/resultR.png"}
-                srcIV={"/images/works/keos/home.png"}
-                srcDIV={"/images/works/keos/errorI.png"}
+                src={"/images/works/keosapp/home.png"} 
+                srcD={"/images/works/keosapp/homeR.png"}
+                srcII={"/images/works/keosapp/errorI.png"}
+                srcDII={"/images/works/keosapp/errorIR.png"}
+                srcIII={"/images/works/keosapp/result.png"}
+                srcDIII={"/images/works/keosapp/resultR.png"}
+                srcIV={"/images/works/keosapp/home.png"}
+                srcDIV={"/images/works/keosapp/errorI.png"}
                 />
             </Container>
         </Layout>

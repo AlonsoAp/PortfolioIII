@@ -3,9 +3,9 @@ import Section from "../components/section";
 import { WorkGridItem , WorkAppGridItem } from "../components/grid-item";
 import thumbPhpWeb from '../public/images/works/php/php1.png'
 import thumbwebLimon from '../public/images/works/limonapp/logim.png'
-import thumbReact from '../public/images/works/reactNative/react.jpg'
+import thumbReact from '../public/images/works/reactnativeapp/react.jpg'
 import thumbAndroid from '../public/images/works/android/android9.png'
-import thumbbot from '../public/images/works/botReact/bot.png'
+import thumbbot from '../public/images/works/reactapp/bot.png'
 import Layout from "../components/layout/article"
 import thumbKeos from '../public/images/works/limonapp/PayG.jpg'
 import { BioSection, BioYear } from "../components/bio";

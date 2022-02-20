@@ -50,13 +50,13 @@ const ReactNative = () => {
                 nameTabIV={"Results"}
                 // nameTabV={""}
                 // nameTabVI={""}
-                src={"/images/works/reactNative/react.jpg"} 
+                src={"/images/works/reactnativeapp/react.jpg"} 
                 srcD={useColorModeValue("/images/works/fondotroll2.png" , "/images/works/fondotroll.png")}
-                srcII={"/images/works/reactNative/react1.jpg"}
+                srcII={"/images/works/reactnativeapp/react1.jpg"}
                 srcDII={useColorModeValue("/images/works/fondotroll2.png" , "/images/works/fondotroll.png")}
-                srcIII={"/images/works/reactNative/react2.jpg"}
+                srcIII={"/images/works/reactnativeapp/react2.jpg"}
                 srcDIII={useColorModeValue("/images/works/fondotroll2.png" , "/images/works/fondotroll.png")}
-                srcIV={"/images/works/reactNative/react3.jpg"}
+                srcIV={"/images/works/reactnativeapp/react3.jpg"}
                 srcDIV={useColorModeValue("/images/works/fondotroll2.png" , "/images/works/fondotroll.png")}
                 />
             </Container>
