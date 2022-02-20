@@ -51,13 +51,13 @@ const ReactNative = () => {
                 // nameTabV={""}
                 // nameTabVI={""}
                 src={"/images/works/reactnativeapp/react.jpg"} 
-                srcD={useColorModeValue("/images/fondotroll2.png" , "/images/works/game/fondotroll.png")}
+                srcD={useColorModeValue("/images/works/game/bgtroll2.png" , "/images/works/game/bgtroll.png")}
                 srcII={"/images/works/reactnativeapp/react1.jpg"}
-                srcDII={useColorModeValue("/images/fondotroll2.png" , "/images/works/game/fondotroll.png")}
+                srcDII={useColorModeValue("/images/works/game/bgtroll2.png" , "/images/works/game/bgtroll.png")}
                 srcIII={"/images/works/reactnativeapp/react2.jpg"}
-                srcDIII={useColorModeValue("/images/fondotroll2.png" , "/images/works/game/fondotroll.png")}
+                srcDIII={useColorModeValue("/images/works/game/bgtroll2.png" , "/images/works/game/bgtroll.png")}
                 srcIV={"/images/works/reactnativeapp/react3.jpg"}
-                srcDIV={useColorModeValue("/images/fondotroll2.png" , "/images/works/game/fondotroll.png")}
+                srcDIV={useColorModeValue("/images/works/game/bgtroll2.png" , "/images/works/game/bgtroll.png")}
                 />
             </Container>
         </Layout>
