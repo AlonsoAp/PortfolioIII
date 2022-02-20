@@ -7,7 +7,7 @@ import thumbReact from '../public/images/works/reactNative/react.jpg'
 import thumbAndroid from '../public/images/works/android/android9.png'
 import thumbbot from '../public/images/works/botReact/bot.png'
 import Layout from "../components/layout/article"
-import thumbPayment from '../public/images/works/keos/error404.png'
+import thumbPayment from '../public/images/works/keos/errorrSe.png'
 import { BioSection, BioYear } from "../components/bio";
 
 

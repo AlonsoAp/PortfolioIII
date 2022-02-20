@@ -58,7 +58,7 @@ const WebPayment = () => {
                 srcIII={"/images/works/keos/result.png "}
                 srcDIII={"/images/works/keos/resultR.png "}
                 srcIV={"/images/works/keos/home.png "}
-                srcDIV={"/images/works/keos/error404.png "}
+                srcDIV={"/images/works/keos/errorrSe.png "}
                 />
             </Container>
         </Layout>
